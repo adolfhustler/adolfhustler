@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Sans&pause=1000&width=435&lines=venezuelan+trillionaire)](https://git.io/typing-svg)
 <div>
 
+<img align="right" width="400" alt="Oppenheimer" src="https://i.imgur.com/PDSlpKu.png"/>
+
 <h2> About me </h2>
    
  - Currently working on <a href="https://zitemaker.tebex.io">**Zitemaker**</a>
