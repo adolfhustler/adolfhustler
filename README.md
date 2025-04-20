@@ -7,7 +7,7 @@
 
 <h2> About me </h2>
    
- - Currently working on <a href="https://zitemaker.tebex.io">**Zitemaker**</a>
+ - Currently working on <a href="https://github.com/zitemaker">**Zitemaker**</a>
  - Mostly working on **private repositories**
  - A **student** working his way around things
    
