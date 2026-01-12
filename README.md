@@ -1,14 +1,18 @@
-<p align = center ><img src="https://i.imgur.com/jUhpTlm.png"> </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Sans&pause=1000&width=435&lines=venezuelan+trillionaire)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=180&color=auto&text=Founder%20@%20Zitemaker&textBg=false&fontSize=60&animation=fadeIn&fontAlignY=63" width="100%" />
+</p>
+<a href="https://git.io/typing-svg">
+   <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=ffffff&width=500&lines=Building+amazing+web+experiences;Optimizing+Minecraft+plugins"">
+       <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=000000&width=500&lines=Building+amazing+web+experiences;Optimizing+Minecraft+plugins"" alt="Typing SVG"">
+   </picture>
+</a>
 <div>
-
-<img align="right" width="400" alt="Oppenheimer" src="https://i.imgur.com/PDSlpKu.png"/>
 
 <h2> About me </h2>
    
- - Currently working on <a href="https://github.com/zitemaker">**Zitemaker**</a>
- - Mostly working on **private repositories**
+ - I’m the co-founder of [**Zitemaker**](https://www.zitemaker.com). We focus on high-end web design; the kind where smooth animations and perfect UX aren't optional.
+ - I also like making Minecraft plugins on the side (it's fun)
  - A **student** working his way around things
    
  <h2> Current Skills </h2>
