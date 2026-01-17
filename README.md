@@ -11,7 +11,7 @@
 
 <h2> About me </h2>
    
- - I’m the co-founder of [**Zitemaker**](https://www.zitemaker.com). We focus on high-end web design; the kind where smooth animations and perfect UX aren't optional.
+ - I’m one of the founders of [**Zitemaker**](https://www.zitemaker.com). We focus on high-end web design; the kind where smooth animations and perfect UX aren't optional.
  - I also like making Minecraft plugins on the side (it's fun)
  - A **student** working his way around things
    
@@ -32,12 +32,6 @@
    
    </br></br>
    
- 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adolfhustler&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adolfhustler&theme=tokyonight&hide_border=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adolfhustler&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
 
  <div align="center">
   <h3>Let's build something great.</h3>
